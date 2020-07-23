@@ -1,4 +1,7 @@
 #!/bin/sh
+####        Created by Jarin Martin 2020               #####
+####    Inspiration from various other Jamf admins    ######
+#####      tackling similar issues.           ##############
 ###########################
 #### RENAME COMPUTER ######
 ##########################
